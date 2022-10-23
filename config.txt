@@ -23,5 +23,5 @@
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "trytry永远开心天天快乐",
 # 金句英文
-"note_en": "I am the queen of confidence shine"
+"note_en": "偷偷改一下应该不会被发现把"
 }
